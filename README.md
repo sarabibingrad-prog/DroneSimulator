@@ -3,7 +3,7 @@
 A 3D drone flight training simulator built with **Unity 6.6** and **C#**.
 The player flies a drone through a series of rings as fast as possible, with a guidance arrow, live HUD ,and a final score.
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## Features
 - Drone flight control (movement, climb/descend, yaw)
